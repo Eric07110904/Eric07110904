@@ -4,13 +4,13 @@ I am Pin-Feng Qiu, a Software Developer.
 
 I'm a **graduated master student** in Computer Science from **National Taiwan University of Science and Technology**.
 
-My master's research focused on deep learning, specifically in areas such as image generation and Generative Adversarial Networks (GANs). Additionally, I alos specialize in developing backend applications.
+My master's research focused on deep learning, specifically in areas such as image generation and Generative Adversarial Networks (GANs). Additionally, I also specialize in developing backend applications.
 
 I successfully completed several collaborative projects with industry partners and gained experience as a Project Manager. Through these experiences, I learned how to collaborate with the industry for development and foster effective teamwork.
 
 Click [here](https://drive.google.com/file/d/1Kqt1YxbvSP_ccacyB3nkaR1Ts4uREYzL/view?usp=drive_link) to see all my projects and master thesis during college.
 
-Feel free to contact me if you are interested in my profile.
+Feel free to contact me if you are interested in my profile!
 
 ## 🏆 Achievements 
 * 🏅Gold Award, The 2020 ICPC Taiwan National Contest for Technology Universities
